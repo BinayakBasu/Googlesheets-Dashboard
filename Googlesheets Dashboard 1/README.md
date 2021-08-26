@@ -10,4 +10,4 @@
 6. Pivot Table 
 
 ## Superstore Sales Data 
-**<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSn4n-UHmhaIhQqBDa3ekq_3B5sNc5EjRvjq3De05rhsoBewYBwQygLhrgj4jRXjw/pubhtml?gid=1860229051&single=true">Click here</a> to view the origial dataset that has been used for creating the dashboard. 
+**<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSn4n-UHmhaIhQqBDa3ekq_3B5sNc5EjRvjq3De05rhsoBewYBwQygLhrgj4jRXjw/pubhtml?gid=1860229051&single=true">Click here</a> to view the origial dataset that has been used for creating the dashboard.**
