@@ -2,7 +2,6 @@
 
 <body>
     <h1>My Googlesheets Dashboard using superstore sales data</h1>
-    <div>
         
     
     <br>
