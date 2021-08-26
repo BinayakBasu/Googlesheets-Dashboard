@@ -30,6 +30,8 @@
 
 **Click on the <a href="https://docs.google.com/spreadsheets/d/1zy9o8fj9b8N2PBTXBJptqCK0pGWdhs_VhKeCClrEGHo/edit?usp=sharing">link</a> to proceed to Googlesheets where you can interact with the data using the dashboard and can draw useful insights from it. The dropdown lists created using Data Validation technique helps an user to view the important metrics regarding sales from different perspectives and dimensions. I have also attached a time series model in the dashboard which adds another dimension to the existing data.**
 
+Note: Keep the Zoom at 90% to view the entire dashboard
+
 
 
 
