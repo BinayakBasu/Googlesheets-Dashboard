@@ -1,5 +1,6 @@
 # Googlesheets Dashboard 1
 <hr>
+
 **I have used the Superstore sales data for creating an Interactive dashboard in Googlesheets. I have modelled the Dashboard in such a way that it provides insights about the important metrics with respect to sales based on several parameters and their combinations.**
 
 **<a href="https://github.com/BinayakBasu/Googlesheets-Dashboard/blob/main/Googlesheets%20Dashboard%201/superstore_sales.dashboard.pdf">Click here</a> to get a glance of the Dashboard. 
