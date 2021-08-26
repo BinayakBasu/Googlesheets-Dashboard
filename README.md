@@ -1,40 +1,10 @@
 # Googlesheets-Dashboard
 
-<head>
-    <style type="text/css">
-        html {
-            overflow: auto;
-        }
-          
-        html,
-        body,
-        div,
-        iframe {
-            margin: 0px;
-            padding: 0px;
-            height: 100%;
-            border: none;
-        }
-          
-        iframe {
-            display: block;
-            width: 100%;
-            border: none;
-            overflow-y: auto;
-            overflow-x: hidden;
-        }
-    </style>
-</head>
 <body>
     <h1>My Googlesheets Dashboard using superstore sales data</h1>
-    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSptedbfuvIcLQiJkO8GhO3UUoJpH4fYnVmQYRhnZWunN-FIsoRVoHMoaY7mEPiBUURxyGevX7h9j4j/pubhtml?widget=true&amp;headers=false"
-            frameborder="0" 
-            marginheight="0" 
-            marginwidth="0" 
-            width="100%" 
-            height="100%" 
-            scrolling="auto">
-    </iframe>
+    <div>
+        
+    
     <br>
     <h2>Interactive Dashboard</h2>
     <div>
